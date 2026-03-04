@@ -1,4 +1,4 @@
-![zenodo 18866275](https://github.com/user-attachments/assets/0bf38250-a68c-43c0-8f5f-7414e579a71d)# Quantum ALU (QALU)
+![zenodo 18866275](https://github.com/user-attachments/assets/0bf38250-a68c-43c0-8f5f-7414e579a71d) Quantum ALU (QALU)
 
 
 A fully quantum Arithmetic Logic Unit (ALU) built with [Qiskit](https://qiskit.org/). The QALU implements 16 classical ALU operations as reversible quantum circuits, verifies correctness through exhaustive simulation, and measures quantum resource metrics (T-gate count, CX-gate count, circuit depth).
