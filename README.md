@@ -1,38 +1,4 @@
-![zenodo 18866275](https://github.com/user-attachments/assets/0bf38250-a68c-43c0-8f5f-7414e579a71d)# Quantum ALU (QALU)![Uploading zeno<svg xmlns="http://www.w3.org/2000/svg"
-     width="190.84375" height="20">
-        <linearGradient id="b" x2="0" y2="100%">
-            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-            <stop offset="1" stop-opacity=".1"/>
-        </linearGradient>
-        <mask id="a" width="190.84375" height="20">
-            <rect width="190.84375" height="20" rx="3"
-            fill="#fff"/>
-        </mask>
-        <g mask="url(#a)">
-            <path fill="#555" d="M0 0h31.375v20H0z" />
-            <path fill="#007ec6"
-            d="M31.375 0h159.46875v20H31.375z"
-            />
-            <path fill="url(#b)" d="M0 0h190.84375v20H0z" />
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,
-        Verdana,Geneva,sans-serif" font-size="11">
-            <text x="16.1875" y="15" fill="#010101"
-            fill-opacity=".3">
-                DOI
-            </text>
-            <text x="16.1875" y="14">
-                DOI
-            </text>
-            <text x="110.609375"
-            y="15" fill="#010101" fill-opacity=".3">
-                10.5281/zenodo.18866275
-            </text>
-            <text x="110.609375" y="14">
-                10.5281/zenodo.18866275
-            </text>
-        </g>
-    </svg>do.18866275.svg…]()
+![zenodo 18866275](https://github.com/user-attachments/assets/0bf38250-a68c-43c0-8f5f-7414e579a71d)# Quantum ALU (QALU)
 
 
 A fully quantum Arithmetic Logic Unit (ALU) built with [Qiskit](https://qiskit.org/). The QALU implements 16 classical ALU operations as reversible quantum circuits, verifies correctness through exhaustive simulation, and measures quantum resource metrics (T-gate count, CX-gate count, circuit depth).
